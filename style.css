@@ -711,11 +711,12 @@
     padding: 40px 20px;
   }
   
-  .training-schedule img {
+  .training-schedule embed {
     max-width: 1000px;
     width: 100%;
-    height: auto;
+    height: 800px;
     border-radius: 8px;
+    border: none;
   }
   
   .training-gallery {
